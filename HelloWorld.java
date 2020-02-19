@@ -1,6 +1,6 @@
 public class HelloWorld {
    public static void main(String[] args) {
       // Prints "Hello, I am here in the terminal window.
-      System.out.println("Hello all, Welcome to CI class on 19/2/2020 at 3pm today");
+      System.out.println("Hello all, Welcome to CI class on 19/2/2020 at 3pm today postponed to 5pm");
    }
 }
